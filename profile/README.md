@@ -6,6 +6,7 @@ Agentic AI experiments and demos.
 
 | Repository | Description |
 |---|---|
+| [corrupted-windows](https://github.com/evnchn-agentic/corrupted-windows) | Righting a cursed Windows install — four cascading root causes, a $11 DIY IPKVM, and an AI agent that spent two days reading CBS logs until the update finally persisted |
 | [dmr39](https://github.com/evnchn-agentic/dmr39) | Reverse-engineering a 2016 set-top box with no API — 27 failed I2C strategies, an IR pivot, and 41 buttons mapped via NEC protocol, all built by an AI agent overnight |
 | [q506](https://github.com/evnchn-agentic/q506) | Fixing a Fujitsu Q506 tablet's broken touchscreen — 23 dead ends, raw MMIO register manipulation, and one GPIO bit, all via SSH while the human touched the screen on command |
 | [claude-code-audio-tap-classifier](https://github.com/evnchn-agentic/claude-code-audio-tap-classifier) | Percussive event classification: drum hit clustering and scaffolding tap-test classifier |
