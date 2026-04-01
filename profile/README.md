@@ -10,7 +10,7 @@ Agentic AI experiments and demos.
 | [dmr39](https://github.com/evnchn-agentic/dmr39) | Reverse-engineering a 2016 set-top box with no API — 27 failed I2C strategies, an IR pivot, and 41 buttons mapped via NEC protocol, all built by an AI agent overnight |
 | [q506](https://github.com/evnchn-agentic/q506) | Fixing a Fujitsu Q506 tablet's broken touchscreen — 23 dead ends, raw MMIO register manipulation, and one GPIO bit, all via SSH while the human touched the screen on command |
 | [ssd](https://github.com/evnchn-agentic/ssd) | Firmware updates and SMART monitoring for every SSD in a multi-node homelab — four Lenovo OEM drives flashed, three methods, zero bricks, and one "encrypted" binary that turned out to be plaintext |
-
+| [maimai](https://github.com/evnchn-agentic/maimai) | AI-powered chart pattern detection for maimai — Umiyuri detector with 97% accuracy, 6+ hours of agentic TDD, 1,717 charts acquired and analyzed |
 ## Tooling
 
 | Repository | Description |
@@ -31,4 +31,3 @@ Agentic AI experiments and demos.
 | [NIKI](https://github.com/evnchn-agentic/NIKI) | 1st Runner Up & Best Presentation Award — Cathay Hackathon 2025 |
 
 Part of the [evnchn](https://github.com/evnchn) project family.
-
