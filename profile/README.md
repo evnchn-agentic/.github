@@ -1,10 +1,16 @@
+<picture>
+  <img src="https://raw.githubusercontent.com/evnchn-agentic/.github/main/profile/cover.webp" alt="Frieren casting, flanked by two Claude Code avatars — You're absolutely right!">
+</picture>
+
+*Two [Claude Code avatars](https://makerworld.com/en/models/2416738) standing guard. Frieren mid-cast. ["You're absolutely right!"](https://absolutelyright.lol/) — a reminder to [trust, but verify](https://en.wikipedia.org/wiki/Trust,_but_verify).*
+
 # evnchn-agentic
 
 Agentic AI experiments, tools, and battle-tested infrastructure — built on the belief that **real work gets done when AI agents roam free**.
 
 ## The Manifesto
 
-We think of agentic AI as a **torque wrench** — the longer the arm, the more output per unit of human input.
+I consider agentic AI as a **torque wrench** — the longer the arm, the more output per unit of human input.
 
 | Mode | Leverage | Verdict |
 |---|---|---|
@@ -12,16 +18,18 @@ We think of agentic AI as a **torque wrench** — the longer the arm, the more o
 | Agentic AI with human approval | ~5:1 | Still not very impressive |
 | **Autonomous agentic AI** | **>>10:1** | **This is where real work gets done** |
 
-**Technology will always predate security.** Before operating systems had memory integrity and protection rings, the answer was one machine per task. Before firewalls existed, the firewall was a closed door behind an air-gapped server room.
+Another observation: **technology always predates security.** Before operating systems had memory integrity and protection rings, the answer was one machine per task. Before firewalls existed, the firewall was a closed door behind an air-gapped server room.
 
-We apply the same principle to AI agents:
+As such, I apply these principles to AI agents:
 
 - **Trust through containment** — dedicated hardware per task, so damage is bounded to one cheap node
 - **Safe task assignment** — give agents tasks where mistakes are recoverable
 - **Quality implementations** — use robust agentic frameworks (Claude Code) over fragile alternatives
 - **Shared memory** — agents across the fleet share knowledge so every session builds on the last
 
-The result: a fleet of bare-metal nodes where AI agents fight **rich battles** — real SSH, real tools, real autonomy — while humans set direction and review outcomes.
+The result: a fleet of bare-metal nodes where AI agents fight **rich battles** — real SSH, real tools, real autonomy — while I set direction and review outcomes. Battles which other AI agents have hardly fought before.
+
+*[Read the full philosophy →](https://github.com/evnchn-agentic/.github/blob/main/PHILOSOPHY.md)*
 
 ## Flagship Projects
 
