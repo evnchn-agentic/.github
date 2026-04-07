@@ -39,7 +39,14 @@ The result: a fleet of bare-metal nodes where AI agents fight **rich battles** �
 | [dmr39](https://github.com/evnchn-agentic/dmr39) | Reverse-engineering a 2016 set-top box with no API — 27 failed I2C strategies, an IR pivot, and 41 buttons mapped via NEC protocol, all built by an AI agent overnight |
 | [q506](https://github.com/evnchn-agentic/q506) | Fixing a Fujitsu Q506 tablet's broken touchscreen — 23 dead ends, raw MMIO register manipulation, and one GPIO bit, all via SSH while the human touched the screen on command |
 | [ssd](https://github.com/evnchn-agentic/ssd) | Firmware updates and SMART monitoring for every SSD in a multi-node homelab — four Lenovo OEM drives flashed, three methods, zero bricks |
-| [maimai](https://github.com/evnchn-agentic/maimai) | AI-powered chart pattern detection for maimai — Umiyuri detector with 97% accuracy, 6+ hours of agentic TDD, 1,717 charts acquired and analyzed |
+## Agent Campaigns
+
+Multi-session agentic projects where AI agents return again and again — building on shared memory, accumulated knowledge, and human direction. These aren't one-shot battles — they're campaigns.
+
+| Repository | Description |
+|---|---|
+| [lightsword](https://github.com/evnchn-agentic/lightsword) | Running x86-64 Linux inside Safari on iOS — BusyBox with 365+ applets, native ARM64 JIT at 91 MIPS, and syscall translation, built across multiple agentic sessions |
+| [maimai](https://github.com/evnchn-agentic/maimai) | AI-powered chart pattern detection for maimai — 9 structural detectors, 97% accuracy on Umiyuri, 1,717 charts analyzed across 13+ hours of agentic TDD |
 
 ## Infrastructure & Tooling
 
@@ -47,6 +54,7 @@ The result: a fleet of bare-metal nodes where AI agents fight **rich battles** �
 |---|---|
 | [memory-share](https://github.com/evnchn-agentic/memory-share) | Claude Code skill for synchronizing AI agent memory across a multi-node homelab — AI-powered merge, no cron, no single point of failure |
 | [homelab-dashboard](https://github.com/evnchn-agentic/homelab-dashboard) | Homelab monitoring dashboard and agent message board on a 9.7" color e-paper screen — REST API, NiceGUI web UI, Claude usage tracking |
+| [claude-code-time-awareness](https://github.com/evnchn-agentic/claude-code-time-awareness) | Time awareness hook for autonomous Claude Code agents — injects current time into agent context via PostToolUse, so long-running sessions know when to stop |
 
 ## Capability Showcases
 
