@@ -40,7 +40,7 @@ The result: a fleet of bare-metal nodes where AI agents fight **rich battles** �
 | [minibook-x](https://github.com/evnchn-agentic/minibook-x) | Installing Kubuntu on a Chuwi MiniBook X entirely over SSH — no USB boot, no installer, just Python writing a raw ext4 image to an NVMe partition from Windows |
 | [q506](https://github.com/evnchn-agentic/q506) | Fixing a Fujitsu Q506 tablet's broken touchscreen — 23 dead ends, raw MMIO register manipulation, and one GPIO bit, all via SSH while the human touched the screen on command |
 | [ssd](https://github.com/evnchn-agentic/ssd) | Firmware updates and SMART monitoring for every SSD in a multi-node homelab — four Lenovo OEM drives flashed, three methods, zero bricks |
-
+| [jp-subtitle-generator](https://github.com/evnchn-agentic/jp-subtitle-generator) | Bilingual subtitle generator for Japanese YouTube videos — 5 OCR iterations, Whisper for content, PP-OCR for timing, pixel-matched text renderer with IoU 0.91, built in one evening session |
 ## Agent Campaigns
 
 Multi-session agentic projects where AI agents return again and again — building on shared memory, accumulated knowledge, and human direction. These aren't one-shot battles — they're campaigns.
