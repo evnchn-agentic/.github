@@ -57,6 +57,7 @@ Multi-session agentic projects where AI agents return again and again — buildi
 | [memory-share](https://github.com/evnchn-agentic/memory-share) | Claude Code skill for synchronizing AI agent memory across a multi-node homelab — AI-powered merge, no cron, no single point of failure |
 | [homelab-dashboard](https://github.com/evnchn-agentic/homelab-dashboard) | Homelab monitoring dashboard and agent message board on a 9.7" color e-paper screen — REST API, NiceGUI web UI, Claude usage tracking |
 | [claude-code-time-awareness](https://github.com/evnchn-agentic/claude-code-time-awareness) | Time awareness hook for autonomous Claude Code agents — injects current time into agent context via PostToolUse, so long-running sessions know when to stop |
+| [claude-code-stop-gate](https://github.com/evnchn-agentic/claude-code-stop-gate) | Stop gate hook for Claude Code — nonce-based confirmation prevents accidental session termination, with checklist for cleanup, stretch goals, and bounded-time handoff |
 
 ## Capability Showcases
 
