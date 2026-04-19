@@ -1,6 +1,6 @@
-# Philosophy
+# Philosophy — Doer Agents
 
-The [manifesto](https://github.com/evnchn-agentic) says *what* I believe. This page explains *why*.
+The [manifesto](https://github.com/evnchn-agentic) says *what* I believe. This page explains *why* for the doer pillar — autonomous agents on real hardware. For the thinker pillar — dialogic long-form sessions — see [PHILOSOPHY_THINKER.md](./PHILOSOPHY_THINKER.md).
 
 <details>
 <summary>Why the anime references?</summary>
