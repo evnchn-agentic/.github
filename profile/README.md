@@ -99,12 +99,12 @@ Long-form thinking sessions with Claude. Records of a human and an AI thinking t
 
 I consider a learner a **source of possibly-wrong information**. Education's real job is to surface what's wrong and correct it — understanding compounds from corrections, not from consumption. Agentic learning, done with a pushback-capable model, is the most direct version of this loop anyone has access to.
 
-| Mode | Pushback | Verdict |
-|---|---|---|
-| Textbook / search engine | None | Never argues back |
-| Expert defending practice | Low | Frame-locked to established view |
-| Low-pushback LLM | Near zero (sycophancy) | **Actively dangerous** — silent failure |
-| **High-pushback LLM** | **High** | **This is where real thinking happens** |
+| Mode | Pushback strength | Pushback target | Verdict |
+|---|---|---|---|
+| Textbook / search engine | None | — | Never argues back |
+| Expert defending practice | **High** | Their own frame (not yours) | Frame-locked to established view |
+| Low-pushback LLM | Near zero (sycophancy) | — | **Actively dangerous** — silent failure |
+| **High-pushback LLM** | **High** | **Your premise** | **This is where real thinking happens** |
 
 The ceiling is reasoning, not knowledge. Knowledge gaps recover via web search mid-conversation; reasoning gaps do not. As such, I apply these principles:
 
