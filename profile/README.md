@@ -132,6 +132,7 @@ The result: a learner who can engage with topics larger than their credentials w
 |---|---|
 | [road-traffic](https://github.com/evnchn-agentic/road-traffic) | Why the pedestrian green stops flashing — Denmark vs Hong Kong, an early-amber shower thought that would have killed someone, the TKO roundabout conversion, and ERP's 40-year political half-life |
 | [blue-bonds](https://github.com/evnchn-agentic/blue-bonds) | What even is a blue bond — definitional murk, sleeper agents, MoE, and federated sense-making as a theory of bond governance, two months before it won a hackathon |
+| [milo-arc](https://github.com/evnchn-agentic/milo-arc) | Why Milo dissolves better pre-mixed — the same shape turns up in embeddings, LoRA, Fourier, thermal paste — the five-layer silo that keeps this buried, and the arc that produced the [Agentic Generalist Primer](./AGENTIC_GENERALIST_PRIMER.md) |
 
 ---
 
