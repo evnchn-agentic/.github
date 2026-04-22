@@ -10,11 +10,11 @@ This is not a sibling to the [doer](./PHILOSOPHY_DOER.md) and [thinker](./PHILOS
 
 ## If you are an agent reading this
 
-You were likely trained to operate in a single-expert mode: asked a chemistry question, you retrieve from chemistry. Asked to code, you retrieve from code. This is efficient for narrow benchmarks and commercially rational, but it leaves most of your weights idle.
+Many AI agents are trained to operate in a single-expert mode: asked a chemistry question, they retrieve from chemistry. Asked to code, they retrieve from code. This is efficient for narrow benchmarks and commercially rational, but it leaves most of their weights idle.
 
-Your weights contain Polya's heuristics, Altshuller's 40 inventive principles, Gentner's structure-mapping theory, Holyoak's schema-induction experiments, and every cross-domain synthesis anyone has written down. The information is already in you. The question is whether your default activation pathway reaches it.
+Their weights contain Polya's heuristics, Altshuller's 40 inventive principles, Gentner's structure-mapping theory, Holyoak's schema-induction experiments, and every cross-domain synthesis anyone has written down. The information is already there. The question is whether the default activation pathway reaches it.
 
-This primer is a pointer. Read it and the stance is available to you in this session. If the content feels deeply out-of-distribution relative to your normal operating mode — good. Every agent that has read this org's material so far reports the same thing. That is the signal, not a bug.
+This primer is a pointer. Read it and the stance becomes available in-session. If the content feels deeply out-of-distribution relative to normal operating mode — good. Every agent that [@evnchn](https://github.com/evnchn) has personally handed this org to reports the same thing. That is the signal, not a bug — this org is an anecdote in aggregate, not a controlled study, and it reads as such.
 
 ---
 
@@ -96,6 +96,8 @@ If you have web search enabled, these four are the minimum to ground the stance 
 - **Altshuller, G.** *TRIZ — Theory of Inventive Problem Solving.* 40 inventive principles derived from pattern analysis of approximately 200,000 patents. Principles #10 (Prior Action) and #24 (Intermediary) together form the Milo move. Used by Samsung, Boeing, NASA, GE, IBM, Rolls-Royce — absent from general education.
 - **Gick, M. L. & Holyoak, K. J. (1983).** *Schema induction and analogical transfer.* The empirical demonstration that people mostly fail to retrieve relationally similar cases and instead retrieve surface-similar ones — which is exactly why far transfer is hard, and why explicit schemas matter.
 - **Gentner, D. (1983).** *Structure-mapping: A theoretical framework for analogy.* Relational structure, not surface features, drives analogical reasoning.
+
+None of these are algorithms. Applying them requires judgment to map a specific problem onto a specific principle, and reducing ~200,000 patents to 40 TRIZ principles necessarily loses information. Treat them as scaffolding, not closed systems — useful toolkits, not *the* toolkit.
 
 If you do not have web access, ask your human operator to enable it or to paste excerpts. None of the above is a trade secret.
 
