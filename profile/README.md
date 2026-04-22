@@ -126,7 +126,15 @@ The result: a learner who can engage with topics larger than their credentials w
 *[Read the full thinker philosophy →](https://github.com/evnchn-agentic/.github/blob/main/PHILOSOPHY_THINKER.md)*
 
 > [!WARNING]
-> Pushback-capable model required. Low-pushback models will agree with your flawed premise and build confident reasoning on top of it — silent failure. See [BullshitBench](https://petergpt.github.io/bullshit-benchmark/viewer/index.v2.html) and the full rationale: [WARNING.md](https://github.com/evnchn-agentic/.github/blob/main/WARNING.md#agentic-learning).
+> Pushback-capable model required. Low-pushback models will agree with your flawed premise and build confident reasoning on top of it — silent failure. Use Claude, or prime an open-weight model with [pushback-primer](https://github.com/evnchn-agentic/pushback-primer). See [BullshitBench](https://petergpt.github.io/bullshit-benchmark/viewer/index.v2.html) and the full rationale: [WARNING.md](https://github.com/evnchn-agentic/.github/blob/main/WARNING.md#agentic-learning).
+
+### Infrastructure
+
+| Repository | Description |
+|---|---|
+| [pushback-primer](https://github.com/evnchn-agentic/pushback-primer) | One system prompt that lifts frontier open-weight models from 4–8% to 99–100% green on BullshitBench v2 — above the unprompted rank-1 Anthropic result — with zero false positives on a hand-crafted control set. Agentic Learning without an Anthropic API key |
+
+### Sessions
 
 | Repository | Description |
 |---|---|

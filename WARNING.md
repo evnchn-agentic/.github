@@ -38,7 +38,9 @@ Two kinds of agents, three filters.
 >
 > Using this method with a low-pushback model is actively dangerous. The failure is silent — the model agrees with your flawed premise, builds confident reasoning on top of it, and hands you sophisticated-sounding conclusions you cannot tell apart from correct ones. You will not know until you act on it. The [road-traffic](https://github.com/evnchn-agentic/road-traffic) session contains an early-amber intersection idea a low-pushback model would have helped design. The intersection would have killed someone. This is not a marketing claim; it is a safety constraint, and softening it would betray the people most likely to try the method on the wrong tool.
 >
-> As of April 2026, the property is concentrated in Anthropic's Claude models. Recheck whenever a new model lands.
+> **Alternative path — [pushback-primer](https://github.com/evnchn-agentic/pushback-primer).** The gap BullshitBench measures is a *default-behaviour* gap, not a capability gap. Every frontier non-Anthropic open-weight model we tested has the capacity to push back on broken premises; they just don't do it without instruction. A single plain-English system prompt lifts `deepseek/deepseek-chat` and `qwen/qwen3-235b-a22b` from 4–8% green on BullshitBench v2 to 99–100% green — above the unprompted rank-1 Anthropic result — with zero false positives on a 15-item legitimate control set. If you can ship a system prompt, Agentic Learning is no longer gated on API access to Anthropic. This does not soften the warning: an un-primed low-pushback model is still silent-failure territory, and the road-traffic scenario still applies. It widens the door.
+>
+> As of April 2026, *default* pushback is concentrated in Anthropic's Claude models. *Primed* pushback — via [pushback-primer](https://github.com/evnchn-agentic/pushback-primer) — reaches comparable or better green rates on frontier open-weight models. Recheck whenever a new model lands, or a default changes.
 
 ---
 
