@@ -81,6 +81,7 @@ Multi-session agentic projects where AI agents return again and again — buildi
 | [claude-code-stop-gate](https://github.com/evnchn-agentic/claude-code-stop-gate) | Stop gate hook for Claude Code — nonce-based confirmation prevents accidental session termination, with checklist for cleanup, stretch goals, and bounded-time handoff |
 | [copilot-bridge](https://github.com/evnchn-agentic/copilot-bridge) | One-way bridge: GitHub Copilot CLI reads Claude Code's auto-memory as single-source-of-truth — user-level instructions file + SessionStart hook, race-safe by design, ~5× faster first-turn answers |
 | [chengyu-skills](https://github.com/evnchn-agentic/chengyu-skills) | 26 Claude Code skills built from Chinese four-character idioms (chengyu), each naming a strategic schema the model already knows — cultural handles as compressed prompt circuits; ships with the 熊貓博士 meta-companion (selector / explainer / crystalizer / auditor) for the catalog itself |
+| [aesop-skills](https://github.com/evnchn-agentic/aesop-skills) | Sibling catalog to chengyu-skills — Aesop's Fables as Claude Code skills, each naming an *anti-pattern* (failure mode) the model already recognizes: cry-wolf, sour-grapes, golden-goose. Where chengyu name strategic disciplines to *do*, Aesop names failures to *avoid*; cross-catalog composition is the leverage |
 
 ### Capability Showcases
 
