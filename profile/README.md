@@ -91,6 +91,7 @@ Multi-session agentic projects where AI agents return again and again — buildi
 
 | Repository | Description |
 |---|---|
+| [coin-stand](https://github.com/evnchn-agentic/coin-stand) | Agentic parametric CAD (build123d): a shelf-edge coin display whose 3D-print support is *engineered* to snap off clean at a single 1.2×0.2 mm bridge line with a flathead twist; real-print-validated, with the snap moment located by audio transient when it was invisible on pink-on-pink video |
 | [claude-code-audio-tap-classifier](https://github.com/evnchn-agentic/claude-code-audio-tap-classifier) | Percussive event classification: drum hit clustering and scaffolding tap-test classifier |
 | [claude-code-cv-demo](https://github.com/evnchn-agentic/claude-code-cv-demo) | CV demo: YOLO26, Gemini 3 Flash, background removal |
 
